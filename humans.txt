@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tobias Mahnert - Software developer - meh
 
 # THANKS
 
