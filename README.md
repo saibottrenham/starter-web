@@ -25,4 +25,4 @@ Please for this repo
 
 ### COPYRIGHT
 
-tobias mahnert
+tobias mahnert. All rights reserved
