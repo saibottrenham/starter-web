@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-More test text. Adding a bit more text, moe changes
+More test text. Adding a bit more text, moe changes.
+Updating for emergency fix after stashing.
 
 ## Purpose
 
